@@ -1,8 +1,8 @@
 {
   "name": "my-new-pwa",
   "short_name": "my-new-pwa",
-  "start_url": " https://avani898.github.io/INFO-6128-Share-Target-Lab/",
-  "scope": " https://avani898.github.io/INFO-6128-Share-Target-Lab/",
+  "start_url": "https://avani898.github.io/INFO-6128-Share-Target-Lab/",
+  "scope": "https://avani898.github.io/INFO-6128-Share-Target-Lab/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
@@ -41,7 +41,7 @@
     }
   ],
   "share_target": {
-    "action": " https://avani898.github.io/INFO-6128-Share-Target-Lab/",
+    "action": "https://avani898.github.io/INFO-6128-Share-Target-Lab/",
     "method": "GET",
     "params": {
       "title": "title",
